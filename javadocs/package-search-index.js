@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.example.webappsparkjava"},{"l":"controller"},{"l":"DatabaseAbstraction"},{"l":"manager"},{"l":"Model2ViewModelAdapter"},{"l":"viewModel"},{"l":"ViewModel2ManagerAdapter"}];updateSearchResults();

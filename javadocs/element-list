@@ -1,0 +1,8 @@
+unnamed package
+com.example.webappsparkjava
+controller
+DatabaseAbstraction
+manager
+Model2ViewModelAdapter
+viewModel
+ViewModel2ManagerAdapter
